@@ -1,18 +1,18 @@
 h3 {
   font-family: 'Kaushan Script', cursive;
   font-size: 40px;
-  margin: 20px;
-  ;
+  text-align: center;
 }
 
 body {
   padding: 20px 0;
 }
 
-/* .image {
-  padding-left: 50%;
-  padding-top: 50%;
-} */
+#msg {
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+}
 
 .container {
   /* border: 3px solid yellow; */
